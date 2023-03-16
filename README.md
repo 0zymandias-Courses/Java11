@@ -1,1 +1,1 @@
-# Java11
+# Java 11 SE OPC course
